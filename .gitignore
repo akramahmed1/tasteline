@@ -1,0 +1,14 @@
+# env
+.env*.local
+.env.local
+
+# deps
+node_modules/
+
+# next
+.next/
+out/
+build/
+
+# os
+.DS_Store
